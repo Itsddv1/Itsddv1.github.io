@@ -1,7 +1,7 @@
 Origin: Ivclutched
 Label: Ivclutched
 Suite: stable
-Version: 1.5
+Version: 1.0
 Codename: Ivclutched
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
